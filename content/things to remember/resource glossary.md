@@ -1,5 +1,4 @@
-# Cool Fonts
-- Helvetica
-- Akzidenz Grotesk
-- Franklin Gothic (Typekit)
-- Schibsted Grotesk
+## List of useful things to remember:
+[[cool fonts]]
+
+[[website inspiration]]

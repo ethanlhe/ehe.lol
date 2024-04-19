@@ -17,7 +17,7 @@ On a broader level, I care deeply about creating [[link]] that enable others to 
 
 As far as 'about' pages go, I hope this acts as an open invitation into the many winding paths throughout this garden. Here are some places you may want to visit:
 
-- [link](/posts/): a collection of my favourite [[thoughts/writing|link]];
+- [[things to remember]]: a collection of my favourite [[thoughts/writing|link]];
 - [link](thoughts/craft.md): craft I am proud of (websites, talks, workshops, projects, etc.);
 - [link](/books): books that are in some state of read, being read, or to be read.
 
