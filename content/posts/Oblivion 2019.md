@@ -4,8 +4,6 @@ date: 2024-04-19
 tags:
   - writing
 ---
-
-
 Eternal oblivion: The notion my brain often drifts to whenever my mind is vacant and its vastness engulfs itself within the idea’s indescribability and abstractness. If you aren’t lucky enough to be religious, you likely share a similar perspective. Within the limits of the English language, eternal oblivion can only be described as the belief in a state of absolute nothingness before one’s birth and after one’s death — not a state of unconsciousness, but no consciousness.
 
   

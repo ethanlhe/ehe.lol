@@ -4,7 +4,7 @@ date: 2024-04-19
 tags:
   - resources
 ---
-## Fun interactions
+ ## Fun interactions
 
 - http://lynnecarty.info/: blobs! Fun way to visualize overlapping tags in a personal portfolio
 
