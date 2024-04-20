@@ -9,7 +9,7 @@ tags:
 Welcome!
 ```
 
-I'm Ethan, a third-year Computer Science student at UC Davis. This is a digital garden where I will continuously share insights, thoughts, and work from my ongoing exploration of how technology can be seamlessly integrated into daily life for long-term benefits.
+I'm Ethan, a third-year Computer Science student at UC Davis. This is a digital garden where I continuously share insights, thoughts, and work from my ongoing exploration of how technology can be seamlessly integrated into daily life for long-term benefits.
 
 **My Interests:**
 
