@@ -17,6 +17,7 @@ I'm Ethan, a third-year Computer Science student at UC Davis. This is a digital 
 - **Empowerment Through Technology:** Creating tools that enhance individual agency—allowing for more personal freedom, thoughtful engagement, and of course, a bit of fun.
 
 Thanks for stopping by, feel free to look around
+- [[appendix]]
 - [[resource glossary]]: a collection of some things I don't want to forget
 
 ```poetry
