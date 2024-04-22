@@ -65,3 +65,10 @@ Kept it open for twenty years
 Group of answer choices
 
 Ending governmental support of a particular religious denomination
+
+
+### What was the most important consequence of Marbury v. Madison?
+
+Group of answer choices
+
+Established judicial review by the Supreme Court
